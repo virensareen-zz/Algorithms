@@ -1,0 +1,9 @@
+C:\Users\viren.sareen\documents\visual studio 2015\Projects\StringAverage\StringAverage\bin\Debug\StringAverage.exe.config
+C:\Users\viren.sareen\documents\visual studio 2015\Projects\StringAverage\StringAverage\bin\Debug\StringAverage.exe
+C:\Users\viren.sareen\documents\visual studio 2015\Projects\StringAverage\StringAverage\bin\Debug\StringAverage.pdb
+C:\Users\viren.sareen\documents\visual studio 2015\Projects\StringAverage\StringAverage\obj\Debug\StringAverage.exe
+C:\Users\viren.sareen\documents\visual studio 2015\Projects\StringAverage\StringAverage\obj\Debug\StringAverage.pdb
+C:\Users\viren.sareen\documents\visual studio 2015\Projects\StringAverage\StringAverage\obj\Debug\StringAverage.csprojResolveAssemblyReference.cache
+C:\Users\viren.sareen\Documents\Visual Studio 2015\Projects\Algorithms\StringAverage\StringAverage\bin\Debug\StringAverage.exe.config
+C:\Users\viren.sareen\Documents\Visual Studio 2015\Projects\Algorithms\StringAverage\StringAverage\obj\Debug\StringAverage.exe
+C:\Users\viren.sareen\Documents\Visual Studio 2015\Projects\Algorithms\StringAverage\StringAverage\obj\Debug\StringAverage.pdb
