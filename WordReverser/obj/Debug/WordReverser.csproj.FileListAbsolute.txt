@@ -1,0 +1,6 @@
+c:\users\viren.sareen\documents\visual studio 2015\Projects\WordReverser\WordReverser\bin\Debug\WordReverser.exe.config
+c:\users\viren.sareen\documents\visual studio 2015\Projects\WordReverser\WordReverser\bin\Debug\WordReverser.exe
+c:\users\viren.sareen\documents\visual studio 2015\Projects\WordReverser\WordReverser\bin\Debug\WordReverser.pdb
+c:\users\viren.sareen\documents\visual studio 2015\Projects\WordReverser\WordReverser\obj\Debug\WordReverser.csprojResolveAssemblyReference.cache
+c:\users\viren.sareen\documents\visual studio 2015\Projects\WordReverser\WordReverser\obj\Debug\WordReverser.exe
+c:\users\viren.sareen\documents\visual studio 2015\Projects\WordReverser\WordReverser\obj\Debug\WordReverser.pdb

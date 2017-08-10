@@ -1,0 +1,6 @@
+c:\users\viren.sareen\documents\visual studio 2015\Projects\SumConsecutives\SumConsecutives\bin\Debug\SumConsecutives.exe.config
+c:\users\viren.sareen\documents\visual studio 2015\Projects\SumConsecutives\SumConsecutives\bin\Debug\SumConsecutives.exe
+c:\users\viren.sareen\documents\visual studio 2015\Projects\SumConsecutives\SumConsecutives\bin\Debug\SumConsecutives.pdb
+c:\users\viren.sareen\documents\visual studio 2015\Projects\SumConsecutives\SumConsecutives\obj\Debug\SumConsecutives.csprojResolveAssemblyReference.cache
+c:\users\viren.sareen\documents\visual studio 2015\Projects\SumConsecutives\SumConsecutives\obj\Debug\SumConsecutives.exe
+c:\users\viren.sareen\documents\visual studio 2015\Projects\SumConsecutives\SumConsecutives\obj\Debug\SumConsecutives.pdb

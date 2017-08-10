@@ -1,0 +1,5 @@
+c:\users\viren.sareen\documents\visual studio 2015\Projects\VowelCount\VowelCount\bin\Debug\VowelCount.exe.config
+c:\users\viren.sareen\documents\visual studio 2015\Projects\VowelCount\VowelCount\bin\Debug\VowelCount.exe
+c:\users\viren.sareen\documents\visual studio 2015\Projects\VowelCount\VowelCount\bin\Debug\VowelCount.pdb
+c:\users\viren.sareen\documents\visual studio 2015\Projects\VowelCount\VowelCount\obj\Debug\VowelCount.exe
+c:\users\viren.sareen\documents\visual studio 2015\Projects\VowelCount\VowelCount\obj\Debug\VowelCount.pdb

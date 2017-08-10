@@ -1,0 +1,9 @@
+C:\Users\viren.sareen\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\viren.sareen\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\viren.sareen\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\viren.sareen\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\viren.sareen\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\viren.sareen\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\viren.sareen\Documents\Visual Studio 2015\Projects\BitCount\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\viren.sareen\Documents\Visual Studio 2015\Projects\BitCount\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\viren.sareen\Documents\Visual Studio 2015\Projects\BitCount\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

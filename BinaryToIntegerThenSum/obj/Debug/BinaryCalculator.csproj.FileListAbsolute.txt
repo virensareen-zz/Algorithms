@@ -1,0 +1,6 @@
+c:\users\viren.sareen\documents\visual studio 2015\Projects\BinaryCalculator\BinaryCalculator\bin\Debug\BinaryCalculator.exe.config
+c:\users\viren.sareen\documents\visual studio 2015\Projects\BinaryCalculator\BinaryCalculator\bin\Debug\BinaryCalculator.exe
+c:\users\viren.sareen\documents\visual studio 2015\Projects\BinaryCalculator\BinaryCalculator\bin\Debug\BinaryCalculator.pdb
+c:\users\viren.sareen\documents\visual studio 2015\Projects\BinaryCalculator\BinaryCalculator\obj\Debug\BinaryCalculator.csprojResolveAssemblyReference.cache
+c:\users\viren.sareen\documents\visual studio 2015\Projects\BinaryCalculator\BinaryCalculator\obj\Debug\BinaryCalculator.exe
+c:\users\viren.sareen\documents\visual studio 2015\Projects\BinaryCalculator\BinaryCalculator\obj\Debug\BinaryCalculator.pdb

@@ -1,0 +1,11 @@
+c:\users\viren.sareen\documents\visual studio 2015\Projects\SummingStrings\SummingStrings\bin\Debug\SummingStrings.exe.config
+c:\users\viren.sareen\documents\visual studio 2015\Projects\SummingStrings\SummingStrings\bin\Debug\SummingStrings.exe
+c:\users\viren.sareen\documents\visual studio 2015\Projects\SummingStrings\SummingStrings\bin\Debug\SummingStrings.pdb
+c:\users\viren.sareen\documents\visual studio 2015\Projects\SummingStrings\SummingStrings\obj\Debug\SummingStrings.exe
+c:\users\viren.sareen\documents\visual studio 2015\Projects\SummingStrings\SummingStrings\obj\Debug\SummingStrings.pdb
+c:\users\viren.sareen\documents\visual studio 2015\Projects\SummingStrings\SummingStrings\bin\Debug\nunit.framework.dll
+c:\users\viren.sareen\documents\visual studio 2015\Projects\SummingStrings\SummingStrings\bin\Debug\nunit.framework.xml
+c:\users\viren.sareen\documents\visual studio 2015\Projects\SummingStrings\SummingStrings\obj\Debug\SummingStrings.csprojResolveAssemblyReference.cache
+C:\Users\viren.sareen\Documents\Visual Studio 2015\Projects\Algorithms\SummingStrings\SummingStrings\bin\Debug\SummingStrings.exe.config
+C:\Users\viren.sareen\Documents\Visual Studio 2015\Projects\Algorithms\SummingStrings\SummingStrings\obj\Debug\SummingStrings.exe
+C:\Users\viren.sareen\Documents\Visual Studio 2015\Projects\Algorithms\SummingStrings\SummingStrings\obj\Debug\SummingStrings.pdb
