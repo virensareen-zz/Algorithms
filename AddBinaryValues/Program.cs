@@ -12,6 +12,7 @@ namespace BinaryAdder
         {
             Add("00", "0");
             //Add your 2 binary values here
+			// LOL
         }
 
         public static string Add(string a, string b)
