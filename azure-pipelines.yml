@@ -51,10 +51,6 @@ steps:
     testRunTitle: 'Unit Tests'
     diagnosticsEnabled: true
 
-    
-- task: ManualIntervention@8
-  inputs:
-    instructions: 'Go to Satsuma --> IIS Manager --> ids --> Stop the service'
 
     
 - task: WindowsMachineFileCopy@2
