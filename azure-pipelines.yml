@@ -52,3 +52,15 @@ steps:
     diagnosticsEnabled: true
 
     
+- task: ManualIntervention@8
+  inputs:
+    instructions: 'Go to Satsuma --> IIS Manager --> ids --> Stop the service'
+
+    
+- task: WindowsMachineFileCopy@2
+  inputs:
+    SourcePath: '$(Build.ArtifactStagingDirectory)'
+    MachineNames: '10.2.17.115'
+    AdminUserName: 'DEV2\testpipeline'
+    AdminPassword: 'Fruittowers2019'
+    TargetPath: 'C:\test'
