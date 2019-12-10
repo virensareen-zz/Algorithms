@@ -22,9 +22,10 @@ steps:
 - task: NuGetToolInstaller@1
   inputs:
     versionSpec: 
-- task: MSBuild@1
+
+- task: VSBuild@1
   inputs:
-    solution: '**/*.sln'
+    solution: '**\*.sln'
     restoreNugetPackages: true
 
 - task: CopyFiles@2
