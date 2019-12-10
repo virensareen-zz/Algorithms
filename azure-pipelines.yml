@@ -40,17 +40,6 @@ steps:
         ArtifactName: 'test_artifact'
         publishLocation: 'Container'
 
-- task: VSTest@2
-  inputs:
-    testSelector: 'testAssemblies'
-    testAssemblyVer2: |
-      **\*test*.dll
-      !**\*TestAdapter.dll
-      !**\obj\**
-    searchFolder: '$(System.DefaultWorkingDirectory)'
-    testRunTitle: 'Unit Tests'
-    diagnosticsEnabled: true
-
 
     
 - task: WindowsMachineFileCopy@2
