@@ -15,11 +15,11 @@ steps:
   inputs:
     versionSpec: 
     
-- task: VSBuild@1
+- task: MSBuild@1
   inputs:
-    solution: '**\*.sln'
+    solution: '**/*.sln'
     restoreNugetPackages: true
-
+    
 - task: CopyFiles@2
   inputs:
         Contents: '**'
