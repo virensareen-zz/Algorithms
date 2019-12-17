@@ -8,9 +8,11 @@ trigger:
 - master
 
 pool:
-  vmImage: 'ubuntu-latest'
-
+    vmImage: 'windows-latest'
+    
 steps:
+
+- script: echo hello from Windows
 - task: NuGetToolInstaller@1
   inputs:
     versionSpec: 
