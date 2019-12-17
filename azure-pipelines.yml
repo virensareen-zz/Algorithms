@@ -15,9 +15,9 @@ steps:
   inputs:
     versionSpec: 
 
-- task: VSBuild@1
+- task: MSBuild@1
   inputs:
-    solution: '**\*.sln'
+    solution: '**/*.sln'
     restoreNugetPackages: true
 
 - task: CopyFiles@2
@@ -32,8 +32,6 @@ steps:
         PathtoPublish: '$(Build.ArtifactStagingDirectory)'
         ArtifactName: 'test_artifact'
         publishLocation: 'Container'
-
-
     
 - task: WindowsMachineFileCopy@2
   inputs:
